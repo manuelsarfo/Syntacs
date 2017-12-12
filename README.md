@@ -1,4 +1,5 @@
-# Syntacs[![Build Status](https://travis-ci.org/Wikia/app.svg?branch=dev)(200x200.JPG)]
+# Syntacs ![Build Status](https://travis-ci.org/Wikia/app.svg?branch=dev)<img src="https://user-images.githubusercontent.com/20339097/33884344-30934b64-df37-11e7-87a6-a925fdf1a7f9.JPG" width="15%"></img> 
+
 Find your forgotten syntax
 
 ## Getting Started
